@@ -49,7 +49,6 @@ This simulation is fictional and is intended **strictly for educational and prof
 
 - Markdown for structured logging
 - Git/GitHub for version control and collaboration
-- Optional: TCPView, Sysinternals Suite, or internal monitoring tools for simulated data points (if applicable in future entries)
 
 ---
 
