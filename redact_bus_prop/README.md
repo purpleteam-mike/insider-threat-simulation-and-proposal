@@ -4,7 +4,7 @@ This repository contains a redacted version of a business proposal originally su
 
 ## 📄 Contents
 
-- `redacted_bus_prop_info_sec_officer.pdf`: A sanitized and redacted version of the original document. All sensitive or identifying information (names, locations, patient numbers, etc.) has been removed to maintain privacy and confidentiality.
+- `redacted_bus_prop.pdf`: A sanitized and redacted version of the original document. All sensitive or identifying information (names, locations, patient numbers, etc.) has been removed to maintain privacy and confidentiality.
 
 ## ⚠️ Disclaimer
 
