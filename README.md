@@ -41,3 +41,42 @@ This project serves as a portfolio example of my entry-level skills and awarenes
 - Human factor vulnerabilities  
 - Incident documentation & analysis  
 - Ethical red team-style thinking
+
+---
+
+## 🔐 Key Themes Covered
+
+- Unlocked or unattended sensitive areas
+- Unauthorized access attempts
+- Behavioral red flags from employees or contractors
+- Workstation policy violations
+- Lack of physical security enforcement
+- Social engineering or suspicious interactions
+
+---
+
+## 🧭 How to Use This Repo
+
+1. Browse each day’s entry to follow the progression of the internal threat scenario.
+2. Note how documentation evolves and connections between incidents are made.
+3. Observe the escalation in risk and the steps that could be taken to prevent further compromise.
+4. Use this repo as a template for conducting your own simulations or tabletop exercises.
+
+---
+
+## ✅ Skills Demonstrated
+
+- Log analysis and behavioral monitoring
+- Security awareness and policy enforcement
+- Red team simulation writing
+- Forensics mindset in documentation
+- Clear, structured reporting
+
+---
+
+## 🧪 Tools Used
+
+- Markdown for structured logging
+- Git/GitHub for version control and collaboration
+
+---
