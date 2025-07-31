@@ -15,7 +15,7 @@ This simulation is fictional and is intended **strictly for educational and prof
 
 ---
 
-## 📬 Contact & Licensing
+## Licensing
 
 This repository is open for review, feedback, and collaboration. Feel free to fork or adapt for your own training purposes.
 
