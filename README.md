@@ -1,6 +1,6 @@
-# 🥸 Insider Threat Simulation (14-Day Log)
+# 🥸 Insider Threat SIMULATION - MEANING NO REAL DAMAGE WAS DONE AND THIS INFORMATION WAS JUST A CASE STUDY (14-Day Log)
 
-This repository contains a 14-day simulation in which I documented real-world insider threat vulnerabilities observed in a healthcare-adjacent workplace environment. The entries focus on **physical security**, **compliance awareness**, and **human behavior risks** commonly overlooked in HIPAA-regulated spaces.
+This repository contains a 14-day simulation in which I documented real-world vulnerabilities OBSERVED in a healthcare-adjacent workplace environment. The entries focus on **physical security**, **compliance awareness**, and **human behavior risks** commonly overlooked in HIPAA-regulated spaces.
 
 The purpose of this project was to strengthen my ability to:
 
