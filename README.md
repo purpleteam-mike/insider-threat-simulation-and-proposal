@@ -1,6 +1,6 @@
-# 🥸 Insider Threat SIMULATION (14-Day Log)
+# 🥸 Insider Threat SIMULATIONS
 
-This repository contains a 14-day simulation in which I documented real-world vulnerabilities OBSERVED in a healthcare-adjacent workplace environment. The entries focus on **physical security**, **compliance awareness**, and **human behavior risks** commonly overlooked in HIPAA-regulated spaces.
+This repository contains multiple observational simulations. I documented real-world vulnerabilities OBSERVED in a work place environment. The entries focus on **physical security**, **compliance awareness**, and **human behavior risks** commonly overlooked in the work force.
 
 The purpose of this project was to strengthen my ability to:
 
@@ -9,11 +9,10 @@ The purpose of this project was to strengthen my ability to:
 - Practice writing professional risk assessments and mitigation strategies
 - Present speculative threat modeling from an insider perspective
 
-Each daily entry includes:
-- A specific risk or security gap observed
-- A threat analysis section ("Speculative Insider Perspective")
-- Recommendations tailored for low-impact, realistic improvements
-- A severity rating to help prioritize remediation
+Each folder includes:
+- A specific risk or security gap observed from a business
+- A threat analysis section is present on each entry
+- A severity rating to help prioritize remediation is also present on each entry
 
 ---
 
@@ -57,10 +56,9 @@ This project serves as a portfolio example of my entry-level skills and awarenes
 
 ## 🧭 How to Use This Repo
 
-1. Browse each day’s entry to follow the progression of the internal threat scenario.
-2. Note how documentation evolves and connections between incidents are made.
-3. Observe the escalation in risk and the steps that could be taken to prevent further compromise.
-4. Use this repo as a template for conducting your own simulations or tabletop exercises.
+1. Browse each folder to find entries for that business
+2. Everything inside the folder retains to the same location 
+3. Every folder is another observational simulation conducted at a different business
 
 ---
 
