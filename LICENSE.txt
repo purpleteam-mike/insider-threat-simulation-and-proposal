@@ -1,17 +1,6 @@
-Each daily entry includes:
-
-- 🚨 **Event Summary**
-- 🕒 **Date & Time**
-- 🧩 **Incident Description**
-- 🔍 **Analysis & Hypothesis**
-- 🛡️ **Potential Mitigations**
-- 🗂️ **Severity Assessment**
-
----
-
 ## ⚠️ Disclaimer
 
-This simulation is fictional and is intended **strictly for educational and professional development purposes**. All scenarios are based on common patterns observed in insider threat cases, red team engagements, and cybersecurity best practices. No real individuals, companies, or incidents are referenced.
+These simulations are fictional and is intended **strictly for educational and professional development purposes**. All scenarios are based on common patterns observed in insider threat cases, red team engagements, and cybersecurity best practices. No real individuals, companies, or incidents are referenced.
 
 ---
 
